@@ -1,6 +1,6 @@
-const continue1 = confirm('желаете ли вы продолжить?');
+const continue = confirm('желаете ли вы продолжить?');
 
-if (continue1 === true) {
+if (continue === true) {
     alert('Программа выполнена');
 } else {
     console.log('Пользователь отменил выполнение программы');
