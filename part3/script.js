@@ -1,4 +1,5 @@
 let num1, num2, sum;
+
 num1 = prompt('Введите первое число:');
 num2 = prompt('Введите второе число:');
 num1 = Number(num1);
